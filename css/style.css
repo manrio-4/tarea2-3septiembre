@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+}
+.nombre{
+    font-family: cursive;
+    font-size: 30px;
+}
+.oreja1{
+    background-color: brown;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    position: absolute;
+    left: 300px;
+}
+.oreja2{
+    background-color: brown;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    position: absolute;
+    left: 500px;
+}
+.cabeza{
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    position: relative; /*padre*/
+    left: 325px;
+}
+.ojo1{
+    background-color: black;
+    width: 30px;
+    height: 40px;
+    border-radius: 35px;
+    position: absolute;
+    left: 40px;
+    top: 50px;
+}
+.ojo1-1{
+    background-color: white;
+    width: 10px;
+    height: 25px;
+    border-radius: 20px;
+    position: absolute;
+    left: 10px;
+    top: 5px;
+}
+.ojo2{
+    background-color: black;
+    width: 30px;
+    height: 40px;
+    border-radius: 35px;
+    position: absolute;
+    left: 120px;
+    top: 50px;
+}
+.ojo2-2{
+    background-color: white;
+    width: 10px;
+    height: 25px;
+    border-radius: 20px;
+    position: absolute;
+    left: 10px;
+    top: 5px;
+}
+.nariz{
+    background-color: black;
+    width: 45px;
+    height: 30px;
+    border-radius: 60%;
+    position: absolute;
+    left: 75px;
+    top: 90px;
+}
+.boca{
+    background-color: black;
+    width: 85px;
+    height: 40px;
+    border-radius: 80%;
+    position: absolute;
+    left: 55px;
+    top: 130px;
+}
+.brazo1{
+    background-color: brown;
+    width: 100px;
+    height: 40px;
+    border-radius: 70%;
+    position: absolute;
+    left: 250px;
+}
+.brazo2{
+    background-color: brown;
+    width: 100px;
+    height: 40px;
+    border-radius: 70%;
+    position: absolute;
+    left: 500px;
+}
+.cuerpo{
+    background-color: brown;
+    width: 250px;
+    height: 250px;
+    border-radius: 300px;
+    position: relative;
+    left: 300px;
+}
+.estomago{
+    background-color: #B53318;
+    width: 140px;
+    height: 180px;
+    border-radius: 50%;
+    position: absolute;
+    left: 55px;
+    top: 40px;
+}
+.pie1{
+    background-color: brown;
+    width: 100px;
+    height: 40px;
+    border-radius: 70%;
+    position: absolute;
+    left: 260px;
+    top: 450px;
+}
+.pie2{
+    background-color: brown;
+    width: 100px;
+    height: 40px;
+    border-radius: 70%;
+    position: absolute;
+    left: 490px;
+    top: 450px;
+}
